@@ -57,3 +57,6 @@ npm run dev
 Use the above endpoints in Thunder Client or Postman with JSON body payloads.
 
 Example request bodies are included in the repository documentation.
+
+#CODE EXPLANATION VIDEIO
+https://drive.google.com/drive/folders/13pDeZXCDO-Knl3B9CBlbFHF3cJkvRAwL?usp=drive_link
